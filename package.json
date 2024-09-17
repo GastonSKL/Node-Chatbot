@@ -20,6 +20,8 @@
   "dependencies": {
     "apiai": "^4.0.3",
     "express": "^4.21.0",
+    "node-fetch": "^3.3.2",
+    "readline-sync": "^1.4.10",
     "socket.io": "^4.7.5"
   }
 }
