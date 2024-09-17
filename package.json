@@ -1,0 +1,25 @@
+{
+  "name": "Chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GastonSKL/Node-Chatbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GastonSKL/Node-Chatbot/issues"
+  },
+  "homepage": "https://github.com/GastonSKL/Node-Chatbot#readme",
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "express": "^4.21.0",
+    "socket.io": "^4.7.5"
+  }
+}
